@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short state of our condition, with relation to the present Parliament.</title>
+            <author>Lawton, Charlwood, 1660-1721.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60101</idno>
+            <idno type="STC">Wing S3630</idno>
+            <idno type="STC">ESTC R10633</idno>
+            <idno type="EEBO-CITATION">13783671</idno>
+            <idno type="OCLC">ocm 13783671</idno>
+            <idno type="VID">101795</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60101)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101795)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 850:7 or 1813:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short state of our condition, with relation to the present Parliament.</title>
+                  <author>Lawton, Charlwood, 1660-1721.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Author, place and date of publication suggested by Wing.</note>
+                  <note>Item at reel 850:7 identified as Wing S3630 (number cancelled).</note>
+                  <note>Reproductions of originals in Henry E. Huntington Library and Art Gallery and British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101795:1"/>
+            <pb n="1" facs="tcp:101795:1" rendition="simple:additions"/>
+            <head>
+               <hi>A ſhort State of our Condition, with Relation to the preſent</hi> PARLIAMENT.</head>
+            <p>IT is too ſad a Subject to admit of Raillery, otherwiſe a man might ſay that we may defy all the Plots of the <hi>Jacobites</hi> &amp; the Machinations of <hi>Republicans,</hi> ſince there is ſo good an underſtanding between the <hi>King</hi> and his <hi>People,</hi> ſince the People have choſen him a <hi>Parliament,</hi> of which he thinks ſo many of the <hi>Members</hi> are fit to be employed by him, as well as entruſted by them. A man might Droll on, but he can have no <hi>Engliſh</hi> heart, nor thinking head, who can ſport himſelf with our Calamities. There cannot ſure be any Circum<g ref="char:EOLhyphen"/>ſtance which can make <hi>England</hi> more impregnable, more Glorious and happy than when the <hi>King</hi> and <hi>Parliament</hi> joyntly agree in <hi>National</hi> Deſigns. But neither can there be any juncture more fatal than when an <hi>Houſe</hi> of <hi>Commons</hi> ſeem as much in a <hi>Separate</hi> Intereſt from that of their Country, as <hi>Paraſites</hi> in theſe latter <hi>Reigns</hi> have perſwaded our <hi>Kings</hi> to be. Such an <hi>Houſe</hi> of <hi>Commons</hi> will make <hi>Slavery</hi> Authentick, will bubble us out of all ſenſe of <hi>Liberty.</hi> What with talking of the Church and the Monarchy at one time, and the <hi>French</hi> and <hi>Popery</hi> at another, they will firſt cheat themſelves, and then delude as well as betray the Nation. They will moſt eaſily betray the Nation, becauſe we are not apt now to find fault with any thing that has a <hi>Parliamentary</hi> Sanction. That two hundred thouſand Pounds a year beſtowed upon the Parliament, has al<g ref="char:EOLhyphen"/>ready drawn out of the Subjects Pockets, more Millions, than all our Kings ſince the Conqueſt have ever had from this Nation; and that without any rude complaint, is a Proof, that if a King can manage well Mr. <hi>Guy's</hi> Office he may without much adoe ſet up for Abſolute. VENALIS EST ANGLIA, for VENALE EST PARLIAMENTUM. Heretofore indeed it was not neceſſa<g ref="char:EOLhyphen"/>ry only that a <hi>Parliament</hi> ſhould give, but that they ſhould give reaſonably; as <hi>Flammocks</hi> Rebellion, and others in King <hi>Henry</hi> the Sevenths Reign witneſs, and yet I believe our Rolls will not furniſh us with many Seſſions wherein mony was given, and no one <hi>Country</hi> Bill granted. But our Anceſtors were wiſe enough to inſtruct their Members, and our Conſtitution ſo regular, that we had frequent Elections. But when think you ſhall we have a new Election now, ſince the King has about Sixſcore Members, that I can reckon who are in places, and who are thereby ſo entirely at his Devotion; that altho they have mortal Fewds when out of the Houſe, tho' they are violently of oppo<g ref="char:EOLhyphen"/>ſite Parties in their Notions of Government, yet they Vote as <hi>lumpingly</hi> as the <hi>Lawn Sleeves,</hi> never divide when the Intereſt of the Family (as they call it) is concern'd, that is to ſay, when any Court Project is on foot. The Houſe is ſo Officer'd, that by thoſe that have Places, and Penſions, together with their
+<pb n="2" facs="tcp:101795:2"/>Sons, Brother;, and Kinſmen, and thoſe who are fed with the hopes of Pre<g ref="char:EOLhyphen"/>ferment, and the too grea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> influence theſe have upon ſome honeſt miſtaken Country Gentlemen, (who are poſſibly overfrighted with the <hi>French</hi>) the King can baffle any <hi>Bill,</hi> quaſh all Grievances, ſtifle Accompts, and Ratifie the <hi>Articles</hi> of <hi>Limerick.</hi> I call them miſtaken Country Gentlemen, who can be perſwaded that an Honeſt Bill can be at any time out of Seaſon. I confeſs they muſt adore Kings more than I do, who when their own Management has brought them into Difficulties and Streights, don't love to make good uſe of their Humiliations. I would truſt an Elected King a great way, if I ſaw he underſtood Election to be his Title, if our Generoſity would engage him to Reformation, but when I ſee he knows neither his own nor our Intereſt, Em<g ref="char:EOLhyphen"/>ploys many of thoſe who have been our Enemies all along, and were his when the Debate of the Crown was on foot; when I ſee him hate and Nickname as <hi>Common-wealths</hi> men thoſe whoſe Principles made them the Authors of his Greatneſs, and thoſe that would have him do the Buſineſs for which he came, for which both he and we ſaid he came: when I ſee him ſometimes ſolliciting in perſon in the <hi>Houſe</hi> of <hi>Lords,</hi> at others by my Lord <hi>Portland,</hi> beſides what he does by all his Under-Officers, when I hear he ſends Commands to ſome Lords, and Bribes to others, and turns out of his Place the gallant Lord <hi>Bella<g ref="char:EOLhyphen"/>mount,</hi> meerly for giving his Vote in the Houſe of Commons according to his Conſcience, and thereby intends to terrifie others; when I find the Money the Nation gives to defend our Liberties from Forreigners abroad, is like to un<g ref="char:EOLhyphen"/>dermine them at home, in a word, when I ſee neither the one nor the other Houſe can withſtand the power of Gold, I ſay when I perceive all this, it is time to give Warning, it is time to look about us. I once thought to have af<g ref="char:EOLhyphen"/>fixed to this Paper a Liſt of thoſe that are in Office, which if I had, it would not only have ſhewn how many Members are bought off, but would have poin<g ref="char:EOLhyphen"/>ted out many amongſt the Number of Favourites and Pentioners, who we ex<g ref="char:EOLhyphen"/>pected ſhould rather have been puniſhed. Had we intended to have juſtified what we have done to after-times. Had any thing but perſonal Grandeur been the real intention of him who we intended ſhould have been and va<g ref="char:EOLhyphen"/>lued himſelf moſt upon being our Deliverer; theſe men muſt have been marked down as Betrayers of their Country, who are now made the chief Suppor<g ref="char:EOLhyphen"/>ters of his Throne. I thought we called over the <hi>Prince of Orange</hi> to get or give us all the Laws we wanted; to have made the Elections of Parliament ſecure and frequent, Tryals impartial, the <hi>Militia</hi> our ſtanding Force, and the Navy our ſtrength. I thought we had call'd him over to call Miniſters to an account, and to have put it out of their power Impunibly to abuſe us hereafter. If any ſpirit of Liberty Remains, if we are not deſtined to deſtruc<g ref="char:EOLhyphen"/>tion, ſure the Nation will take ſome way to let the King and both Houſes know that they expect they ſhould not only provide for a Campaigne in <hi>Flanders,</hi> but (if we ſhould yet have our wiſhed for Succeſs) for our Security even againſt
+<pb n="3" facs="tcp:101795:2"/>our own Victories, and ſuch Laws as may make it worth while at this time to defend our Country; I ſay worth while to defend it; for if we are to be Slaves, its no matter to whom we are ſo. I would not embarraſs the Go<g ref="char:EOLhyphen"/>vernment, but I would have thoſe that are in it undeſtand that it is for our good and not to gratify their own Ambition that they are put into thoſe poſts.</p>
+            <p>It was the Cuſtom formerly for the People to pay their Members, and thoſe Members were truſted by the People to keep the Ballance between their Li<g ref="char:EOLhyphen"/>berties and the Kings Prerogative. But ſince they are retained by him with ſuch Over grown Fees (ſuch Places and preferments) to be Council on his ſide, how can the People hope they will be juſt in their Arbitration? But af<g ref="char:EOLhyphen"/>ter all I would not be thought to inſinuate, that all that are in Places give up the Intereſt of <hi>England;</hi> there are ſome, and thoſe in great Places too, of whom I can't allow my ſelf to have one hard thought, tho' there are others of whom the world had a very good opinion, who ſince they have had Prefer<g ref="char:EOLhyphen"/>ment, have taken care to convince us, that we were miſtaken in their Cha<g ref="char:EOLhyphen"/>racters. Leſt the good ſhould not be diſtinguiſhed from the bad, I forbear making a Liſt, which moſt Members, if they pleaſe, can make for themſelves and their Neighbours, and more exactly than I can do it, and I think the beſt ought to ſuſpect &amp; examine their own Conſciences, whether their Employments don't byaſs their Votes. If men are to make fortunes by being of our Senate-Houſe, we had better our ſelves pay the Disburſements of thoſe we ſend, we had better our ſelves allow them plentiful Sallaries for ſitting there, each par<g ref="char:EOLhyphen"/>ticular County would ſave by it in the publick Aſſeſſments, and find their ac<g ref="char:EOLhyphen"/>count in it, whilſt they preſerve their Members from the temptation of being hired out of their Intereſt, and conſequently get good Laws for what they give. We can ſcarce pay too much for good Laws, and if we have not ſome <hi>that we have not yet</hi> we ſhall not when the War is over (let it end which way it will) be able to call what we have our own. If the Members of Parliament are to overlook all the ill Husbandry of the Government, that they may ſhare in the Profuſeneſs and bribery of it, if our Rights are ſet to Sale by ſome, and neglected by others, when the very Being of the Government depends upon our being pleaſed, what amendment, what confirmation ſhall we have of our Conſtitution when all our Dangers are over? This is a thought that deſerves our moſt ſerious Reflections. In the Late times the City of <hi>London</hi> often pe<g ref="char:EOLhyphen"/>titioned for paſſing of Laws; will they always lend Money now, and never expect a thorow alteration of the Miniſtry, and Securities for the future againſt Court Projecters? In King <hi>James the firſt</hi>'s time there were certain Sparks that undertook for Parliaments, they were called Undertakers, and there is a certain Secret that has Stole out of our <hi>Cabinet,</hi> that one there immediatly upon the Kings refuſing the <hi>Triennial Bill laſt Seſſions,</hi> undertook that it ſhould be thrown out the next time they Sat, with as much ſcorn and contempt as was
+<pb n="4" facs="tcp:101795:3"/>the <hi>Judges Bill.</hi> It is time to have <hi>Annual Parliaments</hi> inſtead of <hi>Triennial,</hi> ſince <hi>Privy Counſellors</hi> and <hi>Lords of the Treaſury</hi> (both which ſtations this Perſon en<g ref="char:EOLhyphen"/>joys) can ſo perfectly feel the Pulſe of a Parliament, during an Interval. I could name a certain Gentleman who exactly reſembles <hi>Harry Guy,</hi> that the laſt Seſſions when the Houſe was a little out of Humor, diſpoſed of no leſs then <hi>ſixteen thouſand Pounds</hi> in three dayes time, for <hi>ſecret Service.</hi> Who are in Places we may find out, but God knows who have Penſions, yet every man that made the leaſt obſervation can remember that ſome who opened loudly at the behinning of the laſt Seſſions, who came up as eager as is poſſible for Reforma<g ref="char:EOLhyphen"/>tion, had their Mouths ſoon ſtopped with <hi>Huſh-money.</hi> It has been of ſome time whiſpered, that if this will not at firſt preingage to do what will be ex<g ref="char:EOLhyphen"/>acted at their Hands, we ſhall have a new Parliament. I can't tell whether a new Parliament will not be practiſed upon by the <hi>Carmarthen Art;</hi> however it is our laſt and beſt remedy; for if this continues, <hi>God have Mercy upon poor England;</hi> for hitherto we have been and we are like ſtill for ought I ſee, to be repayed for all our expence of Blood and Treaſure, with the <hi>meer Smoak</hi> that <hi>Boccaline</hi> mentions in his Advertiſement from <hi>Parnaſſus,</hi> whereby the Enemies of the Government have but too great advantage given them to ridicule us for our fooliſh credulity.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
